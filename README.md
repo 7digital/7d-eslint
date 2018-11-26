@@ -11,3 +11,7 @@ Then add the following .eslintrc.json to root
   "extends": "eslint-config-7d"
 }
 ```
+
+### Versioning
+
+Just increment the version with `npm version patch` and push. There is no CI/CD set up for this.
